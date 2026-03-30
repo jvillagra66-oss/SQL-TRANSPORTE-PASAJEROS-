@@ -61,6 +61,17 @@ rutas ←── viajes ──→ conductores
 | VS Code + SQLTools | Entorno de desarrollo |
 | Git + GitHub | Control de versiones |
 
+## 📸 Resultados
+### Consulta 1 — Resumen operativo
+https://github.com/jvillagra66-oss/SQL-TRANSPORTE-PASAJEROS-/blob/main/Imagenes%20resultados/01_resuemn_operativo.png
+### Consulta 2 — Rancking de canductores 
+https://github.com/jvillagra66-oss/SQL-TRANSPORTE-PASAJEROS-/blob/main/Imagenes%20resultados/02_rancking_de_conductores.png
+### Consulta 3 — ingreso por ruta
+https://github.com/jvillagra66-oss/SQL-TRANSPORTE-PASAJEROS-/blob/main/Imagenes%20resultados/03_ingreso_por_ruta.png
+### Consulta 4 — analisis de demora 
+https://github.com/jvillagra66-oss/SQL-TRANSPORTE-PASAJEROS-/blob/main/Imagenes%20resultados/04_analisis_de_demora.png
+### Consulta 5 — facturacion acumulada 
+https://github.com/jvillagra66-oss/SQL-TRANSPORTE-PASAJEROS-/blob/main/Imagenes%20resultados/05_facturacion_acumulada.png
 ## 👤 Autor
 
 **Jorge Villagra** — Supply Chain & Data Analyst
